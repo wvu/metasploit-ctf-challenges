@@ -1,4 +1,4 @@
-# 2 of Diamonds (2019)
+# 2 of Diamonds (2020)
 
 Run `./build.sh` to build and run this challenge.
 
